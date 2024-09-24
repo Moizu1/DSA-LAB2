@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Student\Desktop\final pf 006\DSALLAB2\DSALLAB2\Source.cpp(26,8): warning C4101: 'max': unreferenced local variable
+C:\Users\Student\Desktop\final pf 006\DSALLAB2\DSALLAB2\Source.cpp(24,1): message : while compiling class template member function 'Stack<char>::Stack(void)'
+C:\Users\Student\Desktop\final pf 006\DSALLAB2\DSALLAB2\Source.cpp(85,14): message : see the first reference to 'Stack<char>::Stack' in 'main'
+C:\Users\Student\Desktop\final pf 006\DSALLAB2\DSALLAB2\Source.cpp(85,14): message : see reference to class template instantiation 'Stack<char>' being compiled
+  DSALLAB2.vcxproj -> C:\Users\Student\Desktop\final pf 006\DSALLAB2\x64\Debug\DSALLAB2.exe
